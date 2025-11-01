@@ -13,7 +13,7 @@ public class EventGenerator {
 	public static void main(String[] args) {
 		
 		/// !!!!!!!!!!!!!!!!!!!!!! Name of group:
-		String group = "group0"; //// CHANGE ME!!!!
+		String group = "group10"; //// CHANGE ME!!!!
 
 		// Name of the Kafka topic to publish the events to (please keep the group name
 		// as prefix to prevent conflicts with other groups)
